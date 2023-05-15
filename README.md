@@ -10,3 +10,10 @@ as a secondary investigation process to indicate the need for further investigat
 - Xception
 - Incseption  Resnet V2
 - ResNet50
+
+## Classes
+The model is able to classify the MRI scans to the following classes:
+- Glioma
+- Meningioma
+- Pituitary
+- No Tumour
