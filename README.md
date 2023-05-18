@@ -16,4 +16,4 @@ The model is able to classify the MRI scans to the following classes:
 - Glioma
 - Meningioma
 - Pituitary
-- No Tumour
+- No Tumor
